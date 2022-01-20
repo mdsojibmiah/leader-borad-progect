@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #F3F1FF;
+  
+}
+.player:hover{
+    box-shadow: 4px 15px 30px gray;
+}
+.container{
+    margin-bottom: 50px;
+}
+.right-item li a{
+    float:left;
+}
+.brand-logo{
+    width: 40px;
+    height: 51px;
+}
+.profile img{
+    width: 51px;
+}
+.top-player h3{
+    color: tomato;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.Player img{
+    width: 56px;
+    margin-left: 10px;
+}
+.player-name{
+    margin-left:30px;
+}
+.top-player .Player{
+    padding: 10px;
+    
+}
+main{
+    max-width:876px;
+    
+    background-color: white;
+}
+.blog-img img{
+    width: 177px;
+}
+.blog-img{
+    padding: 20px;
+}
+.blog-img p{
+    padding-left: 10px;
+    font-weight: bold;
+
+}
+.card{
+    margin: 10px;
+    border-radius: 5px;
+}
+.card img{
+ 
+    padding: 10px;
+}
+.course{
+    max-width:930px;
+}
+.card-body h5{
+    font-weight: bold;
+}
+.card-body p{
+    color: tomato;
+    font-size: 12px;
+}
+.let-course{
+    margin-left: 20px;
+    color: tomato;
+}
+.card:hover{
+    box-shadow: 2px 10px 40px gray;
+   
+}
